@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<config>
+
+    <modules>
+        <CreativeChaos_AddProduct>
+            <version>0.0.1</version>
+        </CreativeChaos_AddProduct>
+    </modules>
+
+    <global>
+        <models>
+            <CreativeChaos_AddProduct>
+                <class>CreativeChaos_AddProduct_Model</class>
+            </CreativeChaos_AddProduct>
+        </models>
+        <events>
+            <catalog_product_new_action>
+                <observers>
+                    <creativechaos_addproduct_model_observer>
+                        <class>CreativeChaos_AddProduct_Model_Observer</class>
+                        <method>eventObserver</method>
+                    </creativechaos_addproduct_model_observer>
+                </observers>
+            </catalog_product_new_action>
+        </events>
+    </global>
+
+</config>
