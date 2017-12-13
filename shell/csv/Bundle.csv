@@ -1,0 +1,21 @@
+sku,_attribute_set,_type,_category,_root_category,_product_websites,created_at,description,name,price,required_options,short_description,small_image,status,updated_at,url_key,url_path,visibility,qty,_media_attribute_id,_media_image,_media_position,_media_is_disabled
+akd100,Electronics,bundle,Home & Decor/Electronics,Default Category,base,2013-03-05 11:59:03,"Includes our Camera Case, and your choice between our Digital Camera or our DSLR, 16GB or 8GB memory card, and 3-year or 5-year warranty.",Camera Travel Set,,1,"Conveniently pick up your Camera, Memory, Warranty and Camera Case all at once.
+",/h/d/hde001t_1.jpg,1,2013-03-20 22:02:13,camera-travel-set,camera-travel-set.html,4,0,88,/h/d/hde004_2.jpg,4,0
+,,,,,,,,,,,,,,,,,,,88,/h/d/hde007_1.jpg,5,0
+,,,,,,,,,,,,,,,,,,,88,/h/d/hde003a.jpg,2,0
+,,,,,,,,,,,,,,,,,,,88,/h/d/hde006a.jpg,3,0
+,,,,,,,,,,,,,,,,,,,88,/h/d/hde001t_1.jpg,1,0
+akd101,Electronics,bundle,Home & Decor/Electronics,Default Category,base,2013-03-05 12:04:13,Includes a choice between our Compact MP3 player or our Digital Media Player and Earbuds or Headphones.,MP3 Player with Audio,,1,"Pick up your Media Player and Audio Output together.
+",/h/d/hde012_2.jpg,1,2013-03-20 22:14:44,mp3-player-with-audio,mp3-player-with-audio.html,4,0,88,/h/d/hde011_2.jpg,1,0
+,,,,,,,,,,,,,,,,,,,88,/h/d/hde010_2.jpg,2,0
+,,,,,,,,,,,,,,,,,,,88,/h/d/hde012_2.jpg,3,1
+,,,,,,,,,,,,,,,,,,,88,/h/d/hde013_2.jpg,4,1
+,,,,,,,,,,,,,,,,,,,88,/h/d/hde013__2.jpg,5,0
+,,,,,,,,,,,,,,,,,,,88,/h/d/hde012__2.jpg,6,0
+akd102,Home & Decor,bundle,Home & Decor,Default Category,base,2013-03-05 12:10:53,Includes a choice between Titian Raw Silk Pillow or Shay Printed Pillow and our Carnegia Alpaca Throw or Park Row Throw or Gramercy Throw.,Pillow and Throw Set,,1,"A conveniently packaged pairing of our pillows and throws.
+",/h/d/hdb010.jpg,1,2013-03-20 23:17:25,pillow-and-throw-set,pillow-and-throw-set.html,4,0,88,/h/d/hdb009_2.jpg,1,0
+,,,Home & Decor/Bed & Bath,Default Category,,,,,,,,,,,,,,,88,/h/d/hdb008_2.jpg,2,0
+,,,,,,,,,,,,,,,,,,,88,/h/d/hdb006_2.jpg,3,0
+,,,,,,,,,,,,,,,,,,,88,/h/d/hdb007_2.jpg,4,0
+,,,,,,,,,,,,,,,,,,,88,/h/d/hdb005_2.jpg,5,0
+,,,,,,,,,,,,,,,,,,,88,/h/d/hdb010.jpg,6,1

@@ -1,0 +1,14 @@
+sku,_attribute_set,_type,_category,_root_category,_product_websites,created_at,description,has_options,name,price,short_description,status,tax_class_id,visibility,qty,is_in_stock,_media_attribute_id,_media_image,_media_lable,_media_position
+akd200,Clothing,configurable,Men/Shirts,Default Category,base,2013-03-05 11:25:10,"Button front. Long sleeves. Tapered collar, chest pocket, french cuffs.",1,French Cuff Cotton Twill Oxford,190,"Made with wrinkle resistant cotton twill, this French-cuffed luxury dress shirt is perfect for Business Class frequent flyers.",1,2,4,0,1,88,/m/s/msj000t_2.jpg,,1
+,,,,,,,,,,,,,,,,,88,/m/s/msj000a_2.jpg,,2
+,,,,,,,,,,,,,,,,,88,/m/s/msj000c_2.jpg,,4
+akd201,Clothing,configurable,Men/Shirts,Default Category,base,2013-03-05 11:25:10,Tailored/Slim fit. Long sleeves. Button cuff. Cotton. Imported.,1,Slim fit Dobby Oxford Shirt,175,A bold hue and understated dobby detail bring refined nuance to this modern dress shirt. ,1,2,4,0,1,88,/m/s/msj003t_2.jpg,,1
+,,,Sale/Men,Default Category,,,,,,,,,,,,,88,/m/s/msj003a_2.jpg,,2
+,,,,,,,,,,,,,,,,,88,/m/s/msj003b_2.jpg,,3
+akd202,Clothing,configurable,Men/Shirts,Default Category,base,2013-04-04 11:25:10,Available in Sharp fit. Refined collar. Button cuff. Cotton. Machine wash. Made in US.,1,Plaid Cotton Shirt,160,This everyday shirt is equally stylish with jeans or trousers.,1,2,4,0,1,88,/m/s/msj006b_2.jpg,,3
+,,,,,,,,,,,,,,,,,88,/m/s/msj006a.jpg,,2
+,,,,,,,,,,,,,,,,,88,/m/s/msj006t.jpg,,1
+,,,,,,,,,,,,,,,,,88,/s/w/swatch_msj006c-khaki.png,Khaki-swatch,4
+,,,,,,,,,,,,,,,,,88,/s/w/swatch_msj006c-royal-blue.png,Royal Blue-swatch,5
+,,,,,,,,,,,,,,,,,88,/s/w/swatch_msj006c-charcoal.png,Charcoal-swatch,6
+,,,,,,,,,,,,,,,,,88,/s/w/swatch_msj006c-red.png,Red-swatch,7

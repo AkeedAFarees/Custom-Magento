@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <CreativeChaos_AddProduct>
+            <active>true</active>
+            <codePool>local</codePool>
+        </CreativeChaos_AddProduct>
+    </modules>
+</config>
